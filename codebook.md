@@ -1,10 +1,8 @@
 ---
 title: "codebook"
-author: "H.M.P Bandara - S/15/310"
-date: "6/21/2020"
-output: pdf_document
+
 ---
-Variables: Environment and data source
+Variables
 
 today = today's date, later coerced to data and time
 mySystem = description of computer hardware and software used in this analysis
